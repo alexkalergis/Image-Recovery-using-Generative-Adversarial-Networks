@@ -1,4 +1,4 @@
 ## Project Overview
 
-The aim of this project is to recover images that shows the number "8" in handwritten.
+The aim of this project is to recover handwritten images that shows the number "8".
 
