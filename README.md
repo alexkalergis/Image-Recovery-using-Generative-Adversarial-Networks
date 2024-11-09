@@ -1,7 +1,3 @@
-# Project Overview
-
-This repository contains MATLAB code and data for reconstructing handwritten digits using neural network models, specifically for the digit '8'. The exercises involve generating, processing, and reconstructing images using gradient descent optimization techniques, matrix transformations, and neural network operations.
-
 ## Project Overview
 
 The exercises focus on:
