@@ -28,6 +28,3 @@ The exercises focus on:
 
 3. **Visualization**
    - The generated images, denoised images, and reconstructed images will be displayed using MATLAB's `imshow` function.
-
-
-## Results
