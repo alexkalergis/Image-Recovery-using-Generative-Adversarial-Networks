@@ -1,6 +1,7 @@
 ## Project Overview
 
-The exercises focus on:
+### The exercises focus on:
+
 1. Generating a handwritten '8' using a fully connected neural network.
 2. Denoising noisy images of the digit '8' using gradient descent optimization.
 3. Reconstructing reduced-resolution images of the digit '8' while adding noise.
